@@ -12,12 +12,25 @@ import re
 import os
 import sys
 import json
+import random
 import argparse
 from typing import Dict, List
 from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
+
+# local file with predefined posts
+from text_store import depot
+
+PDS_URL = "https://bsky.social"
+HANDLE = ""
+APP_PW = ""
+
+
+def text_roulette() -> str:
+    random.seed()
+    return random.choice(depot)
 
 
 def bsky_login_session(pds_url: str, handle: str, password: str) -> Dict:
@@ -367,6 +380,9 @@ def main():
     parser.add_argument("--embed-url")
     parser.add_argument("--embed-ref")
     args = parser.parse_args()
+
+    args.text = text_roulette()
+
     if not (args.handle and args.password):
         print("both handle and password are required", file=sys.stderr)
         sys.exit(-1)
