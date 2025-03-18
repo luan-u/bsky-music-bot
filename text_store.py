@@ -307,6 +307,17 @@ Carcará 🦅
 Mais coragem 💪 do que homem 🙇
 Carcará 🦅
 Pega 🪤 mata 🔪 e come 🍖
+""",
+
+"""\
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
+Chicleteiro eu, chicleteira ela
 """
 
 ]
