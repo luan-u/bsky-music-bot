@@ -23,10 +23,6 @@ from bs4 import BeautifulSoup
 # local file with predefined posts
 from text_store import depot
 
-PDS_URL = "https://bsky.social"
-HANDLE = ""
-APP_PW = ""
-
 
 def text_roulette() -> str:
     random.seed()
