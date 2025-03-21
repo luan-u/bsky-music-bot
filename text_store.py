@@ -171,8 +171,7 @@ Isso é chifre, não é asa
 """\
 Diz pra eu ficar muda, faz cara de bermuda
 Tira essa bermuda que eu quero essa bermuda
-🎶
-""",
+🎶""",
 
 """\
 No hospital
@@ -205,8 +204,7 @@ Ela te chama de amor 😍
 Vai sentir é muita dor 😩
 
 Ela te chama de meu bem 💏
-E leva tudo que tu tem 😶‍🌫️
-""",
+E leva tudo que tu tem 😶‍🌫️""",
 
 """\
 Ele tá de olho é na butique delaaa
@@ -306,8 +304,7 @@ Não vai 🚫 morrer ⚰️ de fome 😣
 Carcará 🦅
 Mais coragem 💪 do que homem 🙇
 Carcará 🦅
-Pega 🪤 mata 🔪 e come 🍖
-""",
+Pega 🪤 mata 🔪 e come 🍖""",
 
 """\
 Chicleteiro eu, chicleteira ela
@@ -317,7 +314,156 @@ Chicleteiro eu, chicleteira ela
 Chicleteiro eu, chicleteira ela
 Chicleteiro eu, chicleteira ela
 Chicleteiro eu, chicleteira ela
-Chicleteiro eu, chicleteira ela
-"""
+Chicleteiro eu, chicleteira ela""",
+
+"""\
+Ela tem carro importado e telefone celular
+Eu só tenho uma magrela e um apê no BNH""",
+
+"""\
+Agora eu sei
+Exatamente como andar de skate
+Bom recomeçar, poder andar de skate
+Pois eu me lembro de tudo, irmão
+Eu andava de skate também
+Um homem quando anda de skate
+Não quer o skate de ninguém""",
+
+"""\
+Pauliiiiinhaaa
+Me diz o que é que eu faço
+Pauliiii-ii-nha-aa
+Te amo, amor""",
+
+"""\
+Tô fazendo amor com oito pessoas
+Mas meu coração vai ser pra sempre teu
+🎶""",
+
+"""Minha mente nem sempre tão Lúcia é fértil e me deu avós 🎶""",
+
+"""\
+Mas não se preocupe, meu amigo
+Com os horrores que eu lhe digo
+Isso é somente uma canção
+A vida realmente é diferente
+Quer dizer, ao vivo é muito pior
+🎶""",
+
+"""\
+Mas se depois de cantar
+Você ainda quiser me atirar
+Mate-me logo à tarde, às três
+Que à noite tenho um compromisso e não posso faltar
+Por causa de vocês 🎶
+""",
+
+"""\
+Jurei mentiras e sigo sozinho
+Assumo os pecados
+Os ventos do norte não movem moinhos""",
+
+"""\
+Rompi tratados, traí os ritos
+Quebrei a lança, lancei no espaço
+Um grito, um desabafo
+E o que me importa é não estar vencido
+""",
+
+"""\
+Agora eu vou cantar pros miseráveis
+Que vagam pelo mundo derrotados
+Pra essas sementes mal plantadas
+Que já nascem com cara de abortadas
+Pras pessoas de alma bem pequena
+Remoendo pequenos problemas
+Querendo sempre aquilo que não têm
+""",
+
+"""\
+Ãhn, ãhn, ãhn
+É o gemido da caboca no banzeiro
+E o caboco banzeirando vai fazendo chap, chap
+E o corpo fica molhado no gostoso galopar
+
+Ãhn, ãhn, ãhn
+Revira os olhos no momento mais gostoso
+E o balanço do caboco vai ficando remansoso
+É o momento do banzeiro no prazer se derramar 🎶
+""",
+
+"""\
+Chap, chap, chap, chap, chap
+Chap, chap, chap devagar
+Chap, chap, chap bem ligeiro
+É o som do meu banzeiro
+Na canoa a balançar 🎶""",
+
+"""\
+Eu lembro aquela manhã linda de domingo
+Você na laje tomando banho de mangueira
+Nós se olhemo e logo se apaixonemo
+E nós juremo quera amor pra vida inteira 🎶""",
+
+"""\
+Oh, Geisislaine, Geisislaine meu amor
+Por que você pegou aquele barco
+Não deixou nenhum recado
+E se mandou pro interior
+
+Oh, Geisislaine, manda uma carta por favor!
+Aproveita e manda um fardo de farinha
+E a cassete da Calypso
+Que você me emprestou 🎶
+""",
+
+"""\
+Piranha
+É um peixe voraz
+De São Francisco
+Não, perdão
+Rio São Francisco
+Não, não, perdão
+Amazonas
+Nosso grande rio 🎶
+""",
+
+"""\
+Tudo que é perfeito a gente pega pelo braço
+Joga ela no meio, mete em cima, mete embaixo
+Depois de nove meses você vê o resultado
+Depois de nove meses você vê o resultado
+🎶
+""",
+
+"""\
+Doente de amor
+Procurei remédio na vida noturna
+Como uma flor da noite
+Em uma boate aqui na Zona Sul
+
+A dor do amor
+É com outro amor que a gente cura
+Vim curar a dor
+Deste mal de amor na boate azul
+🎶""",
+
+"""\
+Garçom, olhe pelo espelho
+A dama de vermelho
+que vai se levantar
+
+Note que até a orquestra
+Fica toda em festa
+Quando ela sai para dançar
+
+Essa dama já me pertenceu
+E o culpado fui eu
+Da separação
+
+Hoje choro de ciúme
+Ciúme até do perfume
+Que ela deixa no salão
+🎶"""
 
 ]
