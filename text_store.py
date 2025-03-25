@@ -464,6 +464,35 @@ Da separação
 Hoje choro de ciúme
 Ciúme até do perfume
 Que ela deixa no salão
-🎶"""
+🎶""",
+
+"""\
+Você não vale nada, mas eu gosto de você
+Você não vale nada, mas eu gosto de você
+Tudo o que eu queria era saber por quê
+Tudo que eu queria era saber por quê""",
+
+"""\
+Na vida a gente tem que entender
+Que um nasce pra sofrer
+Enquanto o outro ri
+🎶""",
+
+"""\
+Minha dor é perceber
+Que apesar de termos feito tudo o que fizemos
+Ainda somos os mesmos e vivemos
+Ainda somos os mesmos e vivemos
+Como os nossos pais
+🎶""",
+
+"""\
+Olha
+Se você não me ama
+Então não me ligue
+Não fique me fazendo queixa
+Não faça como as outras já tem feito
+Que minha vida é sofrendo
+"""
 
 ]
