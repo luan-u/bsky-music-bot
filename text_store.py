@@ -95,6 +95,13 @@ Que com o tempo se vai
 🎶""",
 
 """\
+Não adianta escrever meu nome numa pedra
+Pois esta pedra em pó vai se transformar
+Você não vê que a vida corre contra o tempo?
+Sou um castelo de areia na beira do mar
+🎶""",
+
+"""\
 Diiiga que já não me queeeeer
 Neeeegue que me pertenceu
 🎶""",
@@ -119,7 +126,7 @@ You should someday
 Realize that today is the day
 🎶""",
 
-"""
+"""\
 Aumente o seu volume que o ciúme
 Não tem remédio
 Não tem remédio
@@ -229,7 +236,7 @@ Ela me disse adeus e se foi
 Nem seu nome eu sei dizer
 🎶""",
 
-"""
+"""\
 É no cabeleireiro 
 no cabeleireiro 
 no cabeleireiro 
@@ -246,7 +253,7 @@ Aquela rua não é mais a mesma rua
 Ficou tão diferente desde que você mudou
 🎶""",
 
-"""
+"""\
 Cachimblema
 Cachaça, chifre e problema
 🎶""",
@@ -278,7 +285,8 @@ That the ones we hurt
 Are you and me
 🎶""",
 
-"""Meu bem
+"""\
+Meu bem
 Você me dá
 Ferida na boca
 🎶""",
@@ -493,6 +501,234 @@ Então não me ligue
 Não fique me fazendo queixa
 Não faça como as outras já tem feito
 Que minha vida é sofrendo
-"""
+""",
+
+"""\
+Selva de pedra, menino microscópico
+O peito gela onde o bem é utópico
+É o novo tópico, meu bem
+A vida nos trópicos
+Não tá fácil pra ninguém
+🎶""",
+
+"""\
+Ouça-me bem, amor
+Preste atenção, o mundo é um moinho
+Vai triturar teus sonhos tão mesquinhos
+Vai reduzir as ilusões a pó
+
+Preste atenção, querida
+De cada amor tu herdarás só o cinismo
+Quando notares, estás à beira do abismo
+Abismo que cavaste com os teus pés
+🎶""",
+
+"""\
+Esse é o nosso mundo
+O que é demais nunca é o bastante
+E a primeira vez é sempre a última chance
+Ninguém vê onde chegamos
+Os assassinos estão livres, nós não estamos""",
+
+"""\
+Vamos sair, mas não temos mais dinheiro
+Os meus amigos todos estão procurando emprego
+Voltamos a viver como há dez anos atrás
+E a cada hora que passa, envelhecemos dez semanas""",
+
+"""\
+Vamos lá, tudo bem, eu só quero me divertir
+Esquecer dessa noite, ter um lugar legal pra ir
+Já entregamos o alvo e a artilharia
+Comparamos nossas vidas, esperamos que um dia
+Nossas vidas possam se encontrar""",
+
+"""\
+São 7 horas da manhã
+Vejo o Cristo da janela
+O Sol já apagou sua luz
+E o povo lá embaixo espera
+Nas filas dos pontos de ônibus
+Procurando aonde ir
+São todos seus cicerones
+Correm pra não desistir
+Dos seus salários de fome
+É a esperança que eles têm
+Neste filme como extras
+Todos querem se dar bem
+🎶""",
+
+"""\
+Eu traço tantos planos
+Brilhantes, antes
+De te ganhar num salto
+Mortal, de iniciante
+Na pirraça de te ter
+Por enquanto, por enquanto
+Eu miro o índio que eu sou
+No teu ser
+E alcanço
+Viagens tão óbvias
+Loucuras tão sóbrias
+De um iniciante
+🎶""",
+
+"""\
+Eu estou apaixonado
+Por uma menina, terra
+Signo de elemento terra
+Do mar se diz: Terra à vista
+Terra para o pé, firmeza
+Terra para a mão, carícia
+Outros astros lhe são guia
+
+Terra, terra
+Por mais distante
+O errante navegante
+Quem jamais te esqueceria?""",
+
+"""\
+A gente não quer só comida
+A gente quer comida, diversão e arte
+A gente não quer só comida
+A gente quer saída para qualquer parte
+A gente não quer só comida
+A gente quer bebida, diversão, balé
+A gente não quer só comida
+A gente quer a vida como a vida quer""",
+
+"""\
+os alquimistas estão chegando
+estão chegando os alquimistas
+os alquimistas estão chegando
+estão chegando os alquimistas
+os alquimistas estão chegando
+estão chegando os alquimistas
+os alquimistas estão chegando
+estão chegando os alquimistas
+os alquimistas estão chegando
+estão chegando os alquimistas""",
+
+"""\
+Numa luta de gregos e troianos
+Por Helena, a mulher de Menelau
+Conta a história que um cavalo de pau
+Terminava uma guerra de dez anos
+
+Menelau, o maior dos espartanos
+Venceu Páris, o grande sedutor
+Humilhando a família de Heitor
+Em defesa da honra caprichosa""",
+
+"""\
+Alexandre, figura desumana
+Fundador da famosa Alexandria
+Conquistava na Grécia e destruía
+Quase toda a população tebana
+
+A beleza atrativa de Roxana
+Conquistava o maior conquistador
+E depois de vencê-la, o vencedor
+Entregou-se à pagã mais que formosa""",
+
+"""\
+Virgulino Ferreira, o Lampião
+Bandoleiro das selvas nordestinas
+Sem temer a perigo nem ruínas
+Foi o rei do cangaço no sertão
+
+Mas um dia sentiu no coração
+O feitiço atrativo do amor
+A mulata da terra do condor
+Dominava uma fera perigosa""",
+
+"""\
+Longe de ti são ermos os caminhos
+Longe de ti não há luar nem rosas
+Longe de ti há noites silenciosas
+Há dias sem calor, beirais sem ninhos
+
+Meus olhos são dois velhos pobrezinhos
+Perdidos pelas noites invernosas
+Abertos sonham mãos cariciosas
+Tuas mãos doces, plenas de carinhos""",
+
+"""\
+Eu devia estar contente
+Porque eu tenho um emprego
+Sou um dito cidadão respeitável
+E ganho quatro mil cruzeiros
+Por mês
+
+Eu devia agradecer ao Senhor
+Por ter tido sucesso
+Na vida como artista
+Eu devia estar feliz
+Porque consegui comprar
+Um Corcel 73
+""",
+
+"""\
+Eu devia estar feliz pelo Senhor
+Ter me concedido o domingo
+Pra ir com a família
+No Jardim Zoológico
+Dar pipoca aos macacos
+
+Ah!
+Mas que sujeito chato sou eu
+Que não acha nada engraçado
+Macaco, praia, carro
+Jornal, tobogã
+Eu acho tudo isso um saco""",
+
+"""\
+De tanto levar frechada do teu olhar
+Meu peito até parece sabe o quê?
+Táubua de tiro ao Álvaro
+Não tem mais onde furar
+🎶""",
+
+"""\
+Já choramos muito
+Muitos se perderam no caminho
+Mesmo assim não custa inventar
+Uma nova canção
+Que venha trazer
+Sol de primavera
+Abre as janelas do meu peito
+A lição sabemos de cor
+Só nos resta aprender""",
+
+"""\
+Eu venho dos anos, das eras
+Que longe se acham daqui
+Contigo cantei a canção do espaço maior
+Em formas de luzes de um mundo melhor
+Mas foi necessário partir""",
+
+"""\
+Não há pedra em teu caminho, não há ondas no teu mar
+Não há vento ou tempestade que te impeçam de voar
+Entre a cobra e o passarinho, entre a pomba e o gavião
+Ou teu ódio ou teu carinho nos carregam pela mão""",
+
+"""\
+Eu não sou diferente de ninguém
+Quase todo mundo faz assim
+Eu me viro bem melhor
+Quando tá mais pra bom que pra ruim
+Não quero causar impacto
+Nem tampouco sensação
+O que eu digo é muito exato
+É o que cabe na canção""",
+
+"""\
+Eu não sei viver sem ter carinho
+É a minha condição
+Eu não sei viver triste e sozinho
+É a minha condição
+Eu não sei viver preso ou fugindo
+🎶"""
 
 ]
