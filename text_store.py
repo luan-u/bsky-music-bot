@@ -363,8 +363,7 @@ Mas se depois de cantar
 Você ainda quiser me atirar
 Mate-me logo à tarde, às três
 Que à noite tenho um compromisso e não posso faltar
-Por causa de vocês 🎶
-""",
+Por causa de vocês 🎶""",
 
 """\
 Jurei mentiras e sigo sozinho
@@ -375,8 +374,7 @@ Os ventos do norte não movem moinhos""",
 Rompi tratados, traí os ritos
 Quebrei a lança, lancei no espaço
 Um grito, um desabafo
-E o que me importa é não estar vencido
-""",
+E o que me importa é não estar vencido""",
 
 """\
 Agora eu vou cantar pros miseráveis
@@ -385,8 +383,7 @@ Pra essas sementes mal plantadas
 Que já nascem com cara de abortadas
 Pras pessoas de alma bem pequena
 Remoendo pequenos problemas
-Querendo sempre aquilo que não têm
-""",
+Querendo sempre aquilo que não têm""",
 
 """\
 Ãhn, ãhn, ãhn
@@ -397,8 +394,7 @@ E o corpo fica molhado no gostoso galopar
 Ãhn, ãhn, ãhn
 Revira os olhos no momento mais gostoso
 E o balanço do caboco vai ficando remansoso
-É o momento do banzeiro no prazer se derramar 🎶
-""",
+É o momento do banzeiro no prazer se derramar 🎶""",
 
 """\
 Chap, chap, chap, chap, chap
@@ -422,8 +418,7 @@ E se mandou pro interior
 Oh, Geisislaine, manda uma carta por favor!
 Aproveita e manda um fardo de farinha
 E a cassete da Calypso
-Que você me emprestou 🎶
-""",
+Que você me emprestou 🎶""",
 
 """\
 Piranha
@@ -433,21 +428,19 @@ Não, perdão
 Rio São Francisco
 Não, não, perdão
 Amazonas
-Nosso grande rio 🎶
-""",
+Nosso grande rio 🎶""",
 
 """\
 Tudo que é perfeito a gente pega pelo braço
 Joga ela no meio, mete em cima, mete embaixo
 Depois de nove meses você vê o resultado
 Depois de nove meses você vê o resultado
-🎶
-""",
+🎶""",
 
 """\
 Doente de amor
 Procurei remédio na vida noturna
-Como uma flor da noite
+Com a flor da noite
 Em uma boate aqui na Zona Sul
 
 A dor do amor
@@ -455,6 +448,17 @@ A dor do amor
 Vim curar a dor
 Deste mal de amor na boate azul
 🎶""",
+
+"""\
+Sair de que jeito?
+Se nem sei o rumo para onde vou
+Muito vagamente me lembro que estou
+Em uma boate aqui na zona sul
+
+Eu bebi demais
+E não consigo me lembrar sequer
+Qual era o nome daquela mulher
+A flor da noite na boate azul 🎶""",
 
 """\
 Garçom, olhe pelo espelho
@@ -500,16 +504,14 @@ Se você não me ama
 Então não me ligue
 Não fique me fazendo queixa
 Não faça como as outras já tem feito
-Que minha vida é sofrendo
-""",
+Que minha vida é sofrendo 🎶""",
 
 """\
 Selva de pedra, menino microscópico
 O peito gela onde o bem é utópico
 É o novo tópico, meu bem
 A vida nos trópicos
-Não tá fácil pra ninguém
-🎶""",
+Não tá fácil pra ninguém 🎶""",
 
 """\
 Ouça-me bem, amor
@@ -520,8 +522,7 @@ Vai reduzir as ilusões a pó
 Preste atenção, querida
 De cada amor tu herdarás só o cinismo
 Quando notares, estás à beira do abismo
-Abismo que cavaste com os teus pés
-🎶""",
+Abismo que cavaste com os teus pés 🎶""",
 
 """\
 Esse é o nosso mundo
@@ -665,8 +666,7 @@ Por ter tido sucesso
 Na vida como artista
 Eu devia estar feliz
 Porque consegui comprar
-Um Corcel 73
-""",
+Um Corcel 73""",
 
 """\
 Eu devia estar feliz pelo Senhor
@@ -729,6 +729,25 @@ Eu não sei viver sem ter carinho
 Eu não sei viver triste e sozinho
 É a minha condição
 Eu não sei viver preso ou fugindo
-🎶"""
+🎶""",
+
+"""\
+Por ser de lá
+Do sertão, lá do cerrado
+Lá do interior do mato
+Da caatinga, do roçado
+Eu quase não saio
+Eu quase não tenho amigo
+Eu quase que não consigo
+Viver na cidade sem ficar contrariado
+🎶""",
+
+"""\
+Meu pai paga a minha faculdade
+Não quero ser doutor
+Não nasci pra estudar 🎶
+Eu sou formado no meio da putaria
+E do posto de gasolina
+Eu saio para farrear 🎶"""
 
 ]
