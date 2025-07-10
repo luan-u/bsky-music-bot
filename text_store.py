@@ -575,6 +575,13 @@ De um iniciante
 🎶""",
 
 """\
+Migalhas dormidas do teu pão
+Raspas e restos
+Me interessam
+Pequenas poções de ilusão
+Mentiras sinceras me interessam""",
+
+"""\
 Eu estou apaixonado
 Por uma menina, terra
 Signo de elemento terra
@@ -748,6 +755,86 @@ Não quero ser doutor
 Não nasci pra estudar 🎶
 Eu sou formado no meio da putaria
 E do posto de gasolina
-Eu saio para farrear 🎶"""
+Eu saio para farrear 🎶""",
+
+"""\
+Maria, Maria é um dom, uma certa magia, uma força que nos alerta
+Uma mulher que merece viver e amar como outra qualquer do planeta
+
+Maria, Maria é o som, é a cor, é o suor, é a dose mais forte e lenta
+De uma gente que ri quando deve chorar e não vive, apenas aguenta""",
+
+"""\
+Mas é preciso ter força, é preciso ter raça
+É preciso ter gana sempre
+Quem traz no corpo a marca
+Maria, Maria mistura a dor e a alegria
+
+Mas é preciso ter manha, é preciso ter graça
+É preciso ter sonho sempre
+Quem traz na pele essa marca
+Possui a estranha mania de ter fé na vida 🎶""",
+
+"""\
+Minha dor é perceber
+Que apesar de termos feito tudo o que fizemos
+Ainda somos os mesmos e vivemos
+Ainda somos os mesmos e vivemos
+Como os nossos pais""",
+
+"""\
+Chega ✋de bandido 🥷 pra prender 🪤 
+De bala 🔫 perdida pra deter 🛡️
+Eu tenho uma ideia 💡 
+Você 🫵 na minha teia 🕸️""",
+
+"""\
+Ostentação
+Fora do normal
+Quem tem motor faz amor
+Quem não tem passa mal
+🎶""",
+
+"""\
+Você se esqueceu
+Que dentro desta casa eu existo
+Que em 82 casou comigo
+Por isso exijo uma explicação
+
+Se sou eu que te incomoda
+Pra te fazer feliz, fiz o que pude
+Mas o incomodado é que se mude
+Você quem vai tomar a decisão""",
+
+"""\
+Eu comprei uma panela de pressão
+Só pra ver se eu cozinho mais depressa
+Sou solteiro, não tenho compromisso
+Se eu lavo, se eu cozinho
+Ninguém tem nada com isso""",
+
+"""\
+O que pensa que eu sou, se não sou o que pensou
+Me libera, não insista, vai viver um outro amor
+🎶""",
+
+"""\
+Eu faço tudo por você
+Ponho um anúncio na TV
+Mostro meu coração pra todo mundo ver
+Eu não desistirei jamais
+Viro manchete dos jornais
+Eu vou fazer de tudo pra não te perder
+🎶""",
+
+"""\
+Vai, locutor, diz que eu tô
+Completamente apaixonado, louco de amor
+Diga por favor
+Fala aí no ar, não sei viver sem ela
+Que tem um cara aqui
+Com saudade dela, cheio de desejo
+Diz pra ela, locutor, só quero mais um beijo
+🎶"""
 
 ]
