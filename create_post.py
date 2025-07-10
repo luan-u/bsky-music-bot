@@ -25,7 +25,7 @@ from text_store import depot
 
 
 def text_roulette() -> str:
-    random.seed()
+    random.seed(os.urandom(32))
     return random.choice(depot)
 
 
