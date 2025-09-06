@@ -1,4 +1,4 @@
-depot = [
+pool = [
 """\
 Eu perguntava, tu e o holandês
 E te abraçava com o holandês

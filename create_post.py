@@ -21,12 +21,12 @@ import requests
 from bs4 import BeautifulSoup
 
 # local file with predefined posts
-from text_store import depot
+from text_store import pool
 
 
 def text_roulette() -> str:
     random.seed(os.urandom(32))
-    return random.choice(depot)
+    return random.choice(pool)
 
 
 def bsky_login_session(pds_url: str, handle: str, password: str) -> Dict:
