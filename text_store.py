@@ -491,14 +491,6 @@ Enquanto o outro ri
 🎶""",
 
 """\
-Minha dor é perceber
-Que apesar de termos feito tudo o que fizemos
-Ainda somos os mesmos e vivemos
-Ainda somos os mesmos e vivemos
-Como os nossos pais
-🎶""",
-
-"""\
 Olha
 Se você não me ama
 Então não me ligue
@@ -576,8 +568,7 @@ De um iniciante
 
 """\
 Migalhas dormidas do teu pão
-Raspas e restos
-Me interessam
+Raspas e restos me interessam
 Pequenas poções de ilusão
 Mentiras sinceras me interessam""",
 
@@ -835,6 +826,145 @@ Fala aí no ar, não sei viver sem ela
 Que tem um cara aqui
 Com saudade dela, cheio de desejo
 Diz pra ela, locutor, só quero mais um beijo
-🎶"""
+🎶""",
+
+"""\
+Agora eu era o herói
+E o meu cavalo só falava inglês
+A noiva do cowboy
+Era você além das outras três
+
+Eu enfrentava os batalhões
+Os alemães e seus canhões
+Guardava o meu bodoque
+E ensaiava o rock
+Para as matinês
+🎶""",
+
+"""\
+Bebeu e soluçou como se fosse um náufrago
+Dançou e gargalhou como se ouvisse música
+E tropeçou no céu como se fosse um bêbado
+
+E flutuou no ar como se fosse um pássaro
+E se acabou no chão feito um pacote flácido
+Agonizou no meio do passeio público
+Morreu na contramão atrapalhando o tráfego""",
+
+"""\
+Por esse pão pra comer, por esse chão pra dormir
+A certidão pra nascer, a concessão pra sorrir
+Por me deixar respirar, por me deixar existir
+Deus lhe pague""",
+
+"""\
+Te faz de besta que o pau te acha
+Chicote nela pra deixar de graça
+De bar em bar ela só quer beber
+Cerveja e cachaça""",
+
+"""\
+Sonhei que estava no Egito
+Num baile de carnaval
+Fantasiado de eunuco
+Eunuco do maioral 🎶""",
+
+"""Encosta a sua cabecinha no meu ombro e chora 🎶""",
+
+"""\
+Onde tiver um forró, capô de fusca
+Se rolar cerveja vem, capô de fusca
+Gosto de um capô de fusca todo ajeitado
+Um capô de fusca desses, quem é que não é chegado 🎶""",
+
+"""\
+Deve ser outra pessoa, ou um caso parecido
+Deve ser alguém querendo só brincar contigo
+
+Mas se fosse diferente, e esse cara fosse eu
+Você também assumiria que não me esqueceu
+
+Hoje é o dia da mentira, eu brinquei e você caiu
+Na verdade, hoje é primeiro de abril 🎶""",
+
+"""\
+Hoje eu vivo sofrendo e sem alegria
+Não tive coragem bastante pra me decidir
+Aquela menina em sua cadeira de rodas
+Tudo eu daria pra ver novamente sorrir""",
+
+"""\
+Siga em frente, olhe para o lado
+Se liga no mestiço, na batida do cavaco
+🎶""",
+
+"""\
+Abre o peito, coragem, irmão
+Faz do amor sua imagem, irmão
+Quem à vida se entrega
+A sorte não nega seu braço, seu chão
+🎶 """,
+
+"""\
+Traição é traição, romance é romance
+Amor é amor e um lance é um lance 🎶""",
+
+"""\
+De segunda a sexta, esporro da escola
+Saba-sábado e domingo, eu solto pipa e jogo bola
+De segunda a sexta, esporro da escola
+Saba-sábado e domingo, eu solto pipa e jogo bola
+
+Dance, potranca, dance com emoção
+Eu sou o Jonathan da Nova Geração
+🎶""",
+
+"""\
+Senta, se acomoda à vontade
+Tá em casa, toma um copo
+Dá um tempo, que a tristeza vai passar
+
+Deixa, pra amanhã tem muito tempo
+O que vale é o sentimento
+E o amor que a gente tem no coração 🎶""",
+
+"""\
+Eu só quero é ser feliz
+Andar tranquilamente na favela onde eu nasci, é
+E poder me orgulhar
+E ter a consciência que o pobre tem seu lugar 🎶""",
+
+"""\
+Eu só quero é ser feliz
+Botar na minha estante aquele Machado de Assis, é
+E poder me orgulhar
+Na minha prateleira os nacionais têm seu lugar 🎶""",
+
+"""\
+A minha alma tá armada e apontada para a cara do morcego 🎶""",
+
+"""\
+Venha provar meu brunch
+Saiba que eu tenho approach
+Na hora do lunch
+Eu ando de ferryboat
+🎶""",
+
+"""\
+Dizem
+Que o seu coração
+Voa mais que avião
+Dizem que o seu amor
+Só tem gosto de fel
+Vai trair o marido
+Em plena lua de mel
+🎶""",
+
+"""\
+eu 👩🏽👈
+tu 🫵
+nós 👩🏽👨🏻👱🏼‍♂️🧑🏿 bota nela 👌👈
+o bonde chegou 🚋
+é os predador de perereca 🐸✨"""
 
 ]
