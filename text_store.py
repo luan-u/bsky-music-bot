@@ -965,6 +965,25 @@ eu 👩🏽👈
 tu 🫵
 nós 👩🏽👨🏻👱🏼‍♂️🧑🏿 bota nela 👌👈
 o bonde chegou 🚋
-é os predador de perereca 🐸✨"""
+é os predador de perereca 🐸✨""",
+
+"""\
+Você que lê e não sabe
+Você que reza e não crê
+Você que entra e não cabe
+Você vai ter que viver
+
+Na tonga da mironga do kabuletê
+Na tonga da mironga
+do kabuletê
+Na tonga da mironga do kabuletê""",
+
+"""\
+Mas se eu lhe dei vinte mil réis
+Pra pagar três e trezentos
+Você tem que me voltar
+- Dezesseis e setecentos
+Mas dezesseis e setecentos?
+- Dezesseis e setecentos"""
 
 ]
